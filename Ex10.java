@@ -1,4 +1,4 @@
-public class Exercicio10 {
+public class Ex10 {
     public static void executar(){
         double[] vetorA = new double[5];
         double[] vetorB = new double[5];
